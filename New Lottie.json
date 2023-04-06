@@ -23885,8 +23885,8 @@
         },
         {
           "ty": 0,
-          "nm": "#main",
-          "ln": "main",
+          "nm": "#primary",
+          "ln": "primary",
           "refId": "32be31e4-9a08-4afa-a86e-d50617515630",
           "hd": false,
           "ks": {
